@@ -1,3 +1,6 @@
+TF201-Laptopify is a tf201-dev (which is maintained by tux-mind) fork that aims to completely replace Android with a standard GNU/Linux distrebution (while Gentoo Linux is in mind, other distros should work fine).
+This project gets rid of any Android related stuff and guides the user on installing GNU/Linux on their TF201, complete with desktop-like applications (for example, root_chooser is reskinned to resemble GNU GRUB).
+
 Please visit http://wiki.gentoo.org/wiki/Asus_Transformer_Prime for more information.
 
 o scripts/ scripts to generate images and tweak keyboard layout.
